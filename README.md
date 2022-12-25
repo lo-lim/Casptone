@@ -19,7 +19,7 @@ First, we make pet bowl with **a scale** attached to the inside of a dish rack w
 
 ## Product
 <p align="center">
-<img src="https://user-images.githubusercontent.com/115607856/209454821-0daeefb7-803f-47b2-a682-04167606c0fc.png" width="100%" height="50%"/>
+<img src="https://user-images.githubusercontent.com/115607856/209454821-0daeefb7-803f-47b2-a682-04167606c0fc.png" width="60%" height="50%"/>
 </p>
 <table>
   <tr>
