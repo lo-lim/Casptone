@@ -11,10 +11,30 @@ First, we make pet bowl with **a scale** attached to the inside of a dish rack w
 # Demo
 ## UI
 ![UI](https://user-images.githubusercontent.com/115607856/209454885-34607843-e340-4615-94d1-4e9feb1979b9.jpg)
-![앱구현](https://user-images.githubusercontent.com/115607856/209454796-8c70668c-5ae0-4019-a5b1-b881b36498d4.gif)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/115607856/209454796-8c70668c-5ae0-4019-a5b1-b881b36498d4.gif"/>
+</p>
+
+- **App image & implementation**    
 
 ## Product
-![멍뭉테이블](https://user-images.githubusercontent.com/115607856/209454821-0daeefb7-803f-47b2-a682-04167606c0fc.png)
-
-<img src="https://user-images.githubusercontent.com/115607856/209454821-0daeefb7-803f-47b2-a682-04167606c0fc.png" width="50%" height="50%"/>
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/115607856/209454821-0daeefb7-803f-47b2-a682-04167606c0fc.png" width="100%" height="50%"/>
+</p>
+<table>
+  <tr>
+    <td><img alt="" src="https://user-images.githubusercontent.com/115607856/209455056-541067df-383e-4fed-81a9-61abf58a0d89.gif"/></td><td><img alt="" src="https://user-images.githubusercontent.com/115607856/209455080-19115b73-4545-4243-8ea6-073c038074fc.gif""/></td>
+  <tr>
+</table>
+      
+- **Finished proudct draft**   
+  - Attaching the scale monitor to the outside     
+  - Height and angle adjustable
+      
+# Complete
+![사료 양 표시기능](https://user-images.githubusercontent.com/115607856/209455933-aa1c701c-e400-43e5-bc5a-ce508bf33bbd.gif) 
+      
+- **Execution of the finished product**  
+  - Automatically measure the amount of feed through the scale  
+  - Scale and mobile phone linkage through Bluetooth(**connect this data to app**)    
+      
