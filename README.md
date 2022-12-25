@@ -26,6 +26,7 @@ First, we make pet bowl with **a scale** attached to the inside of a dish rack w
     <td><img alt="" src="https://user-images.githubusercontent.com/115607856/209455056-541067df-383e-4fed-81a9-61abf58a0d89.gif"/></td><td><img alt="" src="https://user-images.githubusercontent.com/115607856/209455080-19115b73-4545-4243-8ea6-073c038074fc.gif""/></td>
   <tr>
 </table>
+
       
 - **Finished proudct draft**   
   - Attaching the scale monitor to the outside     
