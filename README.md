@@ -38,3 +38,10 @@ First, we make pet bowl with **a scale** attached to the inside of a dish rack w
   - Automatically measure the amount of feed through the scale  
   - Scale and mobile phone linkage through Bluetooth(**connect this data to app**)    
       
+# Etc Matarials
+- **Presentation Slide**   
+  - https://github.com/lo-lim/Casptone/blob/main/PT/smart%20pet%20bowl_mid.pdf
+  - https://github.com/lo-lim/Casptone/blob/main/PT/smart%20pet%20bowl_final.pdf  
+  
+- **Idea report** : https://github.com/lo-lim/Casptone/blob/main/%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf 
+ 
