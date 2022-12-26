@@ -46,4 +46,4 @@ First, we make pet bowl with **a scale** attached to the inside of a dish rack w
     
 - **Idea Report** : https://github.com/lo-lim/Casptone/blob/main/%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf
       
-   
+    
