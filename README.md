@@ -8,6 +8,8 @@ First, we make pet bowl with **a scale** attached to the inside of a dish rack w
 
 </div>
 
+![로고](https://user-images.githubusercontent.com/115607856/209500156-d4bcdc99-dbc9-41bd-8471-a21ae4a6814f.png)
+
 # Demo
 ## UI
 ![UI](https://user-images.githubusercontent.com/115607856/209454885-34607843-e340-4615-94d1-4e9feb1979b9.jpg)
