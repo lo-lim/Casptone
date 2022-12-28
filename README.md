@@ -35,8 +35,7 @@ First, we make pet bowl with **a scale** attached to the inside of a dish rack w
   - Height and angle adjustable
       
 # Complete
-![사료 양 표시기능](https://user-images.githubusercontent.com/115607856/209455933-aa1c701c-e400-43e5-bc5a-ce508bf33bbd.gif)  
-      
+https://user-images.githubusercontent.com/115607856/209741860-0b5176b5-81d4-4708-81db-9a5997b5d2ca.mp4
 - **Execution of the finished product**  
   - Automatically measure the amount of feed through the scale  
   - Scale and mobile phone linkage through Bluetooth(**connect this data to app**)    
